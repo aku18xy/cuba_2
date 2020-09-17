@@ -172,6 +172,7 @@ class _MyHomePageState extends State<MyHomePage> {
       } else {
         htPrimaryWidgets.addAll(<Widget>[
           Text("Disconnected"),
+          Text("lagi"),
           // Row(
           //   mainAxisAlignment: MainAxisAlignment.center,
           //   children: <Widget>[
